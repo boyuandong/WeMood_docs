@@ -1,0 +1,9 @@
+site_name: WeMood Docs
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Object Oriented Analysis: OOA.md
+    - User Stores: UserStory.md
+    - User Interface Mockups: UI.md
+    - Storyboard Sequences: StoryBoard.md
+theme: readthedocs
